@@ -3,17 +3,21 @@
     <table class="table w-35">
     <thead>
       <tr>
-        <th scope="col">#</th>
-        <th scope="col">여</th>
-        <th scope="col">행</th>
-        <th scope="col">커뮤</th>
+        <th scope="col">제목</th>
+        <th scope="col">내용</th>
+        <th scope="col">좋아요</th>
+        <th scope="col">조회</th>
+        <th scope="col">댓글</th>
+        <th scope="col">작성일</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <th scope="row">1</th>
-        <td>Mark</td>
-        <td>Otto</td>
+        <td>2</td>
+        <td>3</td>
+        <td>@mdo</td>
+        <td>@mdo</td>
         <td>@mdo</td>
       </tr>
       <tr>
